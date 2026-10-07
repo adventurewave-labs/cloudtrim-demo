@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="cloudtrim-demo — animated banner" width="100%"></p>
+
 # CloudTrim — Productized Cloud Cost Audit
 
 **One-week, fixed-fee AWS audits for startups. Cut cloud spend 30% with zero downtime.**
